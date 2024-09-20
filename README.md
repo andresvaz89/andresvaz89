@@ -1,16 +1,14 @@
-## Hi there 👋
+# console.log('Hello World'! 👋)
 
-<!--
-**andresvaz89/andresvaz89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduated at Ironhack as a Web Developer, finished a Level 3 Certificate in Web Apps Development in Asata and currently studying a Backend Bootcamp in FactoriaF5.
 
-Here are some ideas to get you started:
+The technologies I have worked with include:
+React | HTML | CSS | JavaScript | Canvas| Bootstrap | PHP | MySQL | ExpressJs | NodeJs | MongoDB | Mongoose | Git | Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During my career in teaching I also learned that I should never stop being a student. I am still eager to keep learning and always having a positive attitude towards any challenge. 
+
+I am currently looking for a Junior position in order to start my career in coding. I consider myself a team player and thoroughly enjoy learning from others.
+
+Feel free to to check my portfolio at www.andresvaz.dev
+
+💼 Linkedin (https://www.linkedin.com/in/andres-vazquez-martin/)
