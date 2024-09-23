@@ -3,7 +3,7 @@
 
 - 🌱 Graduated at Ironhack as a Web Developer, finished a Level 3 Certificate in Web Apps Development in Asata and currently studying a Backend Development Bootcamp in **FactoriaF5**
 
-- 👨‍💻 All my projects are available at [andresvaz89](andresvaz89)
+- 👨‍💻 All my projects are available at [andresvaz89]
 
 - 📫 How to reach me **andres.vazquez.martin@gmail.com**
 
